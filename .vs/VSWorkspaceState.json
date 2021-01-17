@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\images"
+    "\\assets\\css",
+    "\\assets\\css\\images"
   ],
-  "SelectedNode": "\\images\\img_java.JPG",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
